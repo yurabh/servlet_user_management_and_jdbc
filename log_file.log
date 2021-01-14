@@ -1,0 +1,245 @@
+2020-11-16 00:00:32 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:00:32 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:00:32 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:00:32 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:00:33 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:00:33 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2020-11-16 00:00:33 AbstractDao.java TRACE AbstractDao:55 - Finish insert our query
+2020-11-16 00:00:33 AbstractDao.java TRACE AbstractDao:67 - Find query in our Db
+2020-11-16 00:00:33 AbstractDao.java TRACE AbstractDao:70 - We are putting our query into the object User
+2020-11-16 00:00:33 AbstractDao.java TRACE AbstractDao:76 - Our object is right we returned this object
+2020-11-16 00:00:54 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:00:54 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:00:54 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:00:54 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:00:54 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:00:54 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2020-11-16 00:00:54 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2020-11-16 00:00:54 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'hhh' for key 'PRIMARY'
+2020-11-16 00:01:37 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:01:37 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:01:37 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:01:37 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:01:37 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:01:37 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:01:37 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:01:37 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:03:01 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:03:01 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:03:01 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:03:01 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:03:01 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:03:01 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:03:01 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:03:01 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:03:01 AbstractDao.java TRACE AbstractDao:124 - Find query in DataBase
+2020-11-16 00:03:01 AbstractDao.java TRACE AbstractDao:127 - Query is fined and update
+2020-11-16 00:04:27 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:04:27 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:04:27 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:04:27 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:04:28 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:04:28 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:04:28 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:04:28 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:04:28 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted
+2020-11-16 00:04:28 AbstractDao.java TRACE AbstractDao:113 - This query which we find is deleted
+2020-11-16 00:04:39 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:04:39 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:04:39 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:04:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:04:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:04:40 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:04:40 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:04:40 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:04:40 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted
+2020-11-16 00:04:40 AbstractDao.java TRACE AbstractDao:113 - This query which we find is deleted
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:124 - Find query in DataBase
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:127 - Query is fined and update
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:52 - Insert into our D�..
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:55 - Finish insert our query
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:67 - Find query in our Db
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:70 - We are putting our query into the object User
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:76 - Our object is right we returned this object
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-16 00:08:02 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted
+2020-11-16 00:08:02 AbstractDao.java TRACE AbstractDao:113 - This query which we find is deleted
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:124 - Find query in DataBase
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:127 - Query is fined and update
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:52 - Insert into our D�..
+2020-11-19 19:38:23 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2020-11-19 19:38:23 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'hhhh' for key 'PRIMARY'
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2020-11-19 19:38:23 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2020-11-19 19:38:23 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted
+2021-01-14 21:24:52 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:24:52 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:24:52 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:24:52 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:24:52 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:24:53 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2021-01-14 21:24:53 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2021-01-14 21:24:53 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'hhhh' for key 'PRIMARY'
+2021-01-14 21:25:26 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:25:26 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:25:26 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:25:26 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:25:27 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:25:27 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2021-01-14 21:25:27 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2021-01-14 21:25:27 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'yura@111' for key 'email'
+2021-01-14 21:25:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:25:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:25:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:25:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:25:40 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:55 - Finish insert our query
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:67 - Find query in our Db
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:70 - We are putting our query into the object User
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:76 - Our object is right we returned this object
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:25:40 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:26:34 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:26:34 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:26:34 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:26:34 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:26:35 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:26:35 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:124 - Find query in DataBase
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:127 - Query is fined and update
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2021-01-14 21:28:24 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2021-01-14 21:28:24 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'hhhhh' for key 'PRIMARY'
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:24 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:24 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted
+2021-01-14 21:28:55 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:55 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:55 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:55 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:124 - Find query in DataBase
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:127 - Query is fined and update
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:52 - Insert into our DВ..
+2021-01-14 21:28:56 AbstractDao.java ERROR AbstractDao:61 - Problem with inserting our query into our Db
+2021-01-14 21:28:56 AbstractDao.java ERROR AbstractDao:62 - Duplicate entry 'hhhhh' for key 'PRIMARY'
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:60 - Getting db properties from file
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:66 - Loading db properties done
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:71 - Starting JDBC driver registration
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:39 - Getting connection...
+2021-01-14 21:28:56 MySqlDaoFactory.java INFO  MySqlDaoFactory:41 - Connection done!!!
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:90 - Find in Db
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:92 - Read with Data Base
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:95 - Created User for returned
+2021-01-14 21:28:56 AbstractDao.java TRACE AbstractDao:110 - We find query for deleted

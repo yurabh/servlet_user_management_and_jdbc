@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>Online Shop</title>
+</head>
+
+<body class="bg-secondary">
+<!--Navigation menu-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Online Shop</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+        </ul>
+        <div class="form-inline my-2 my-lg-0">
+            <button class="btn btn-outline-primary m-2 my-sm-0" type="button" data-toggle="modal"
+                    data-target="#sing-up">Sing up
+            </button>
+            <button class="btn btn-outline-success m-2 my-sm-0" type="button" data-toggle="modal"
+                    data-target="#sing-in">Sing in
+            </button>
+        </div>
+    </div>
+</nav>
+
+<!--Sin-up Modal-->
+<div class="modal fade" id="sing-up" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content ">
+            <div id="reg-form" class="container bg-light rounded " style="width: 500px">
+                <div id="reg-header">
+                    <div class="row px-5 " style="height: 70px">
+                        <div class="col border-bottom h-50 ">
+                        </div>
+                        <div class="col">
+                            <div class="display-4 text-secondary ">Registration</div>
+                        </div>
+                        <div class="col border-bottom h-50">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-center my-2">
+                            <small>Create your account its free and only takes a minute.</small>
+                        </div>
+                    </div>
+                </div>
+                <form action="/registration" method="post">
+                    <div id="reg-body">
+                        <div class="row px-5 my-3">
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="First Name" name="fn"></div>
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="Second Name" name="sn"></div>
+                        </div>
+
+                        <div class="row px-5 my-3">
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="Login" name="lg"></div>
+                        </div>
+
+                        <div class="row px-5 my-3">
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="Password" name="ps"></div>
+                        </div>
+
+                        <div class="row px-5 my-3">
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="Confirm Password" name="cps"></div>
+                        </div>
+
+                        <div class="row px-5 my-3">
+                            <div class="col"><input type="text" class="form-control"
+                                                    placeholder="Email" name="em"></div>
+                        </div>
+
+                        <div id="reg-futter">
+                            <div class="row px-5 my-4">
+                                <div class="col">
+                                    <div class="input-group mb-3">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="checkbox" aria-label="Checkbox for following text input">
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" aria-label="Text input with checkbox"
+                                               placeholder="Checkbox for following text input">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col text-center pb-5">
+                                    <button type="submit" class="btn btn-danger w-50">Sing-up</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Sing-in Modal -->
+<div class="modal fade" id="sing-in" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog d-flex justify-content-center" role="document">
+        <div class="modal-content w-75 bg-danger text-center border rounded">
+            <div id="aut-header">
+                <div class="display-4 pt-2 text-white">SING-IN</div>
+            </div>
+
+            <form action="/user-page" method="post">
+                <div id="aut-body" class="container">
+                    <div class="row mt-4 px-2">
+                        <div class="col">
+                            <input type="text" class="form-control" name="lg" placeholder="Enter login">
+                        </div>
+                    </div>
+                    <div class="row mt-3 px-2">
+                        <div class="col">
+                            <input type="password" class="form-control" name="ps" placeholder="Enter Password">
+                        </div>
+                    </div>
+                </div>
+
+                <div id="aut-footer" class="container">
+                    <div class="row my-4 px-2">
+                        <div class="col">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-primary">Enter</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+</html>
